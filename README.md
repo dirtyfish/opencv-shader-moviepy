@@ -4,15 +4,19 @@ Just testing this stuff together
 Using:
 
 -Numpy
+
 pip install numpy
 
 -OpenCV
+
 pip install opencv-python
 
 -Moviepy
+
 pip install moviepy
 
 -Vispy
+
 pip install vispy 
 
 FFMPEG(comes with ImageMagicK)
