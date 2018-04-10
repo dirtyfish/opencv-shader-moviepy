@@ -7,5 +7,8 @@ Using:
 -Moviepy
 -Vispy
 FFMPEG
+
 ImageMagick
+https://www.imagemagick.org/script/download.php
+
 A little tweaking to get the version right.
