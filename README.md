@@ -5,7 +5,6 @@ Using:
 
 -Numpy
 
-pip install numpy
 
 -OpenCV
 
@@ -13,11 +12,11 @@ pip install opencv-python
 
 -Moviepy
 
-pip install moviepy
 
 -Vispy
 
-pip install vispy 
+
+-PYQT5
 
 FFMPEG(comes with ImageMagicK)
 
